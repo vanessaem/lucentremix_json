@@ -1,0 +1,52 @@
+{
+  "wallpapers": [
+    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/2kurlAn.jpg",
+                        "thumbUrl": "http://i.imgur.com/2kurlAnm.jpg",
+                        "name": "wall1"
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/amKVhMc.jpg",
+                        "thumbUrl": "http://i.imgur.com/amKVhMcm.jpg",
+                        "name": "wall2"
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/g0NtNWG.jpg",
+                        "thumbUrl": "http://i.imgur.com/g0NtNWGm.jpg",
+                        "name": "wall3"
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/hveQT4t.png",
+                        "thumbUrl": "http://i.imgur.com/hveQT4tm.png",
+                        "name": "wall4"
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/6vEQmdW.png",
+                        "thumbUrl": "http://i.imgur.com/6vEQmdWm.png",
+                        "name": "wall5"
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/Y0Mh8Og.jpg",
+                        "thumbUrl": "http://i.imgur.com/Y0Mh8Ogm.jpg",
+                        "name": "wall6"                    
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/U7xDIhQ.jpg",
+                        "thumbUrl": "http://i.imgur.com/U7xDIhQm.jpg",
+                        "name": "wall7"                    
+                    },
+                    {
+                        "author": "vanessaem",
+                        "url": "http://i.imgur.com/ZcAe2gx.jpg",
+                        "thumbUrl": "http://i.imgur.com/ZcAe2gxm.jpg",
+                        "name": "wall8"                                       
+    }
+  ]
+}
